@@ -1,7 +1,7 @@
 # Desafio-pr-tico-de-Ransomware-e-Keylogger---DIO
 Este repositório faz parte do desafio do curso “Simulando um Malware de Captura de Dados Simples em Python e Aprendendo a se Proteger” (Santander / DIO).
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Este repositório faz parte do desafio do curso **“Simulando um Malware de Captura de Dados Simples em Python e Aprendendo a se Proteger” (Santander / DIO)**.
 
@@ -14,13 +14,12 @@ A proposta é:
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 /
 ├─ README.md
-├─ src/
+├─ source/
 │  ├─ simulator_ransomware.py   # Simulação segura de “lock/unlock” de arquivos de teste
-│  └─ simulator_keylogger.py    # Simulação de captura de entradas num terminal (modo didático)
-└─ images/                      # Capturas de tela da execução dos testes
-   └─ (prints salvos aqui)
+│  └─ simulator_keylogger.py    # Simulação de captura de entradas num terminal
+└─ prints/                      # Capturas de tela da execução dos testes
