@@ -22,4 +22,3 @@ A proposta é:
 ├─ source/
 │  ├─ simulator_ransomware.py   # Simulação segura de “lock/unlock” de arquivos de teste
 │  └─ simulator_keylogger.py    # Simulação de captura de entradas num terminal
-└─ prints/                      # Capturas de tela da execução dos testes
